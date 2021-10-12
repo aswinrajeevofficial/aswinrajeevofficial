@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my space. 
+
+⚡ Fun fact: As much as I love coding and writing, I love to cook as well.
 <!--
 **aswinrajeevofficial/aswinrajeevofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
