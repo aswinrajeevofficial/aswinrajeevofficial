@@ -4,7 +4,7 @@ Welcome to my space.
 
 This is where I host all of my projects, be it technical writing or coding. If something here strikes your interest, don't hesitate to contact me. I write on Upwork as well as Dev.to in my freetime. Check it out here:
 
-<a href = "https://dev.to/aswinrajeevofficial"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="drawing" style="width:200px;"/></a>
+<a href = "https://dev.to/aswinrajeevofficial"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="drawing" style="width:100px;"/></a>
 
 ⚡ Fun fact: As much as I love coding and writing, I love to cook as well.
 <!--
