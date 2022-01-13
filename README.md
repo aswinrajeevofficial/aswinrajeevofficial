@@ -2,7 +2,7 @@
 
 Welcome to my space. 
 
-This is where I host all of my projects, be it technical writing or coding. If something here strikes your interest, don't hesitate to contact me. I write on [Upwork](https://careers.upwork.com/freelancers/~0133deba4e172e23aa) as well as [DEV.to](https://dev.to/) in my freetime. Check it out here:
+This is where I host all of my projects, be it technical writing or coding. If something here strikes your interest, don't hesitate to contact me. I write on [Upwork](https://www.upwork.com/freelancers/~0133deba4e172e23aa) as well as [DEV.to](https://dev.to/) in my freetime. Check it out here:
 
 <a href = "https://dev.to/aswinrajeevofficial"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="drawing" style="width:100px;"/></a>
 
